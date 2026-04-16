@@ -33,3 +33,15 @@ Episode 3: Multiplication and Inverse Matrices
 I am lost. Will look this over then stop for today. Stopped at 21:24.
 I'm guessing here that you do have quite a bit of background knowledge to understand all of this, and this is the part where I am a bit foggy. I had learned this in algebra 2, earlier this year and it was quite difficult. I believe I don't have the
 intuitive understanding of this yet and maybe I will eventually but it is not here right now. I had just memorized important rules to solve questions. Now, it is time to get an intuitive sense of it.
+
+## 4-15-2026
+
+Episode 3: Multiplication and Inverse Matrices cont.
+
+Just finished it past my bedtime because I ran out of time in the day to fit it in, but I really wanted to fit it in, it's all I've been thinking about.
+Anyways we found out how to find the inverse of a matrix. The whole idea is centered around how the inverse of a matrix multiplied by the matrix would be equal to the identity matrix, or AA^-1=I.
+This builds onto why some matrices are not invertible, because instead of I they could get 0, which defeats the whole purpose. If you can find a vector x where Ax=0, then the matrix is not invertible.
+Then he explains Gauss-Jordan elimination by doing E[AI]=[IA^-1] and noticing that E[A]=I which means that E=A^-1. Those letters mean very little in text, but after the explanation you can see it unfold for your self.
+It is a fun way to find the inverse by using intuition and elimination, rather than memorizing a formula, which I had done previously for Algebra 2.
+
+I am very excited for the next day, I will have much less homework which means that I can have more time for this. Also with the help of ChatGPT, I was able to fully understand the multiple methods of matrix multiplication. I guess my brain had stopped working after working through those 3 lectures. I know that the rate at which I watch these lectures will slow down because I will now be entering new territory regarding the episodes that I havent watched at all. That is all for now.
