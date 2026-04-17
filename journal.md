@@ -45,3 +45,11 @@ Then he explains Gauss-Jordan elimination by doing E[AI]=[IA^-1] and noticing th
 It is a fun way to find the inverse by using intuition and elimination, rather than memorizing a formula, which I had done previously for Algebra 2.
 
 I am very excited for the next day, I will have much less homework which means that I can have more time for this. Also with the help of ChatGPT, I was able to fully understand the multiple methods of matrix multiplication. I guess my brain had stopped working after working through those 3 lectures. I know that the rate at which I watch these lectures will slow down because I will now be entering new territory regarding the episodes that I havent watched at all. That is all for now.
+
+## 4-16-2026
+
+Episode 4: Factorization into A = LU
+
+This episode included the introduction of lower triangular matrices. These come from the inverse of our elimination matrices, preformed in reverse order. It makes sense considering EA=U and A=E^-1U and A=LU which means that L = E^-1U.
+Quite simple and with no row exchanges E^-1 becomes L. But then he introduced the row exchanges, being permuations. This reminds me of solving my Rubiks Cube, that was a term they had used for it.
+Then, we go into an interesting topic about the cost of all of this. It turns out that for n x n matrix, the amount of operations on A to get it to U would be (n^3)/3 but the cost for every b would be n^2. Crazy, will have to keep in mind when coding to be efficient. I also had attempted some random problems from the practice sets, some to some success, most to failure. But it is alright, after all I'm not actually taking the course and I am proud of my work. I might share it at the end if I feel some questions were rewarding to solve, and that I'm proud enough to show it.
